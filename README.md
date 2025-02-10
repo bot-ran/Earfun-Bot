@@ -31,7 +31,7 @@ The structure of Earfun-Bot allows for easy navigation and customization:
 
 ## 👨‍💻 **Owner**  
 The owner of **Earfun-Bot** is ## 👨‍💻 **Owner**  
-The owner of **Earfun-Bot** is [MOHAMMAD-ANIK]
+The owner of **Earfun-Bot** is [Earfun-Ahamed]
 the creator and maintainer of the project. the creator and maintainer of the project.
 
 [FACEBOOK](https://www.facebook.com/share/14r1pxbSzn/)
