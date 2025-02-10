@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0",
   prefix: true,
   permission: 0,
-  credits: "Anik",
+  credits: "Earfun",
   description: "Accept friend request if sent to the bot",
   category: "admin",
   usages: "/accept",
@@ -19,7 +19,7 @@ module.exports.run = async ({ event, api }) => {
       av: api.getCurrentUserID(),
       fb_api_req_friendly_name: "FriendingCometFriendRequestsRootQueryRelayPreloader",
       fb_api_caller_class: "RelayModern",
-      doc_id: "4499164963466303",
+      doc_id: "100077406166832",
       variables: JSON.stringify({ input: { scale: 3 } }),
     };
 
