@@ -6,7 +6,7 @@ module.exports.config = {
     name: "hack",
     version: "1.0.0",
     permission: 0,
-    credit: "Anik"
+    credit: "Earfun"
 };
 
 module.exports.run = async ({ api, event, args }) => {
@@ -30,7 +30,7 @@ module.exports.run = async ({ api, event, args }) => {
 
             api.sendMessage(
                 {
-                    body: "তুই হ্যাক হয়ে গেছিস 😈👿!",
+                    body: "তুই কিছুখোন ওয়েট কর ইরফান স্যার তর আইডি হ্যেক করছে😈👿!",
                     attachment: fs.createReadStream(filePath)
                 },
                 event.threadID,
