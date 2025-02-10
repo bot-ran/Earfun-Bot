@@ -1,8 +1,8 @@
-{   "author": "Anik",
+{   "author": "EaRFun",
     "version": "1.0.0",
-    "BOTNAME": "༆̞̎̎̎͢⋆⃝🤖Anik-bot༆̞̎̎̎͢⋆⃝🤖",
+    "BOTNAME": "༆̞̎̎̎͢⋆⃝🤖Earfun-bot༆̞̎̎̎͢⋆⃝🤖",
     "restart": true,
-    "PREFIX": "/",
+    "PREFIX": "!",
     "ADMINBOT": [
          "100015487808389",
          "100001453534533",
