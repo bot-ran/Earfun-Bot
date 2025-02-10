@@ -39,17 +39,18 @@ const moment = require("moment-timezone");
 
 ⁂𝘽𝙤𝙩 𝙉𝙖𝙢𝙚: ${global.config.BOTNAME}
 ✡𝘽𝙤𝙩 𝙋𝙧𝙚𝙛𝙞𝙭: ${global.config.PREFIX}
-✫𝘾𝙤𝙙𝙚 𝙊𝙬𝙣𝙚𝗿🌼 :🔰𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐀𝐧𝐢𝐤🔰,
+✫𝘾𝙤𝙙𝙚 𝙊𝙬𝙣𝙚𝗿🌼 :🔰EARFUN ABAMED🔰,
 
-✬𝐅𝐛 𝐋𝐢𝐧𝐤: https://www.facebook.com/LostFragmentX
-✬𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: wa.me/+601161213515
+✬𝐅𝐛 𝐋𝐢𝐧𝐤: https://www.facebook.com/share/1EYDw8X9oL/
+
+✬𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: 01310488216
 
 ➳✴️𝙈𝘼𝙎𝙏𝙀𝙍 𝙊𝙁 𝘽𝙊𝙏'𝙎 𝙄𝙉𝙎𝙄𝘿𝙀✴️
 
-🔰𝘾𝙤𝙙𝙚 𝘼𝙙𝙢𝙞𝙣𝙨🔰: [𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐀𝐧𝐢𝐤]
+🔰𝘾𝙤𝙙𝙚 𝘼𝙙𝙢𝙞𝙣𝙨🔰: [〲EaRFuN卝 চৌধুরি ツ࿐]
 
 ➳𝙑𝙚𝙧𝙨𝙞𝙤𝙣 ✨: 1.0.0
-✬𝐌𝐨𝐝𝐢𝐟𝐢𝐞𝐝 𝐁𝐲 : 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐀𝐧𝐢𝐤 🔰
+✬𝐌𝐨𝐝𝐢𝐟𝐢𝐞𝐝 𝐁𝐲 : 〲EaRFuN卝 চৌধুরি ツ࿐ 🔰
 
 ➳𝘽𝙤𝙩 𝙞𝙨 𝙍𝙪𝙣𝙣𝙞𝙣𝙜⌚ ${hours} : ${minutes} : ${seconds}
 
