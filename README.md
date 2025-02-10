@@ -1,6 +1,6 @@
-# 🌟 **Anik-Bot** 🌟
+# 🌟 **Earfun-Bot** 🌟
 
-Anik-Bot is a powerful and customizable bot built with Node.js, designed to provide seamless automation and interaction on Facebook Messenger. With features like auto-reply, welcome messages, and precise time integration, Anik-Bot is your go-to solution for smart bot management.
+Earfun-Bot is a powerful and customizable bot built with Node.js, designed to provide seamless automation and interaction on Facebook Messenger. With features like auto-reply, welcome messages, and precise time integration, Earfun-Bot is your go-to solution for smart bot management.
 
 ---
 
@@ -13,10 +13,10 @@ Anik-Bot is a powerful and customizable bot built with Node.js, designed to prov
 ---
 
 ## 📂 **Folder Structure**  
-The structure of Anik-Bot allows for easy navigation and customization:
+The structure of Earfun-Bot allows for easy navigation and customization:
 
-📦 **Anik-Bot** <br> 
-├── 📂 **Anik**  <br>
+📦 **Earfun-Bot** <br> 
+├── 📂 **Earfun**  <br>
 │   └── 📂 handle  <br>
 │        ├── handleCommand.js  <br>
 │        └── handleEvent.js  <br>
@@ -30,12 +30,11 @@ The structure of Anik-Bot allows for easy navigation and customization:
 ---
 
 ## 👨‍💻 **Owner**  
-The owner of **Anik-Bot** is ## 👨‍💻 **Owner**  
-The owner of **Anik-Bot** is [MOHAMMAD-ANIK](https://github.com/MOHAMMAD-ANIK), the creator and maintainer of the project. the creator and maintainer of the project.
+The owner of **Earfun-Bot** is ## 👨‍💻 **Owner**  
+The owner of **Earfun-Bot** is [MOHAMMAD-ANIK]
+the creator and maintainer of the project. the creator and maintainer of the project.
 
-[BOT LINK](https://github.com/MOHAMMAD-ANIK/Anik-bot.git)
-
-[FACEBOOK](https://www.facebook.com/LostFragmentX)
+[FACEBOOK](https://www.facebook.com/share/14r1pxbSzn/)
 
 
 
@@ -113,7 +112,7 @@ The owner of **Anik-Bot** is [MOHAMMAD-ANIK](https://github.com/MOHAMMAD-ANIK), 
 
 
 ## 🔧 **Installation**  
-Follow these steps to install and run Anik-Bot:
+Follow these steps to install and run Earfun-Bot:
 
 ### 1. Fork the Repository  
 Click on the "Fork" button at the top-right of this page to create a copy of this repository under your GitHub account.
