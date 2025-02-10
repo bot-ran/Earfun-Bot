@@ -36,23 +36,23 @@ var link = ["https://i.postimg.cc/j5MM8dgn/Picsart-24-12-23-11-23-30-237.jpg",
 
 ❣️❤️ENJOY MUCH MUCH ❤️❣️
 
-❌THis Bot Made By : MOHAMMAD ANIK❤️❣️
+❌THis Bot Made By : Earfun Ahamed❤️❣️
 
 🔰THIS IS BANGLA AI BOT 🔰
 
 BOT NAME : ${global.config.BOTNAME}
 
-💖TAKE LOVE FROM ANIK-BOT💖
+💖TAKE LOVE FROM Earfun-BOT💖
 
 🌺ব্যবহারে মানুষ চেনা যায় ✔️
 
-⚠️BOT: ADMIN: MOHAMMAD ANIK⚠️
+⚠️BOT: ADMIN: Earfun Ahamed⚠️
 
-⚠️BOT:MAIN ADMIN: MOHAMMAD ANIK⚠️
+⚠️BOT:MAIN ADMIN: 〲EaRFuN卝 চৌধুরি ツ࿐⚠️
 
-⚠️WHATSAPP: wa.me/+601161213515⚠️
+⚠️WHATSAPP: 01310488216⚠️
 
-⛔FACEBOOK : https://www.facebook.com/LostFragmentX
+⛔FACEBOOK : https:https://www.facebook.com/share/1EYDw8X9oL/
 
 🕌💪 POWER OF MUSLIM 🕋🕌
 
