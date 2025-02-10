@@ -6,8 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "MOHAMMAD ANIK",
+  "keywords": [!],
+  "author": "EARFUN AHAMED",
   "license": "GPL-3.0",
   "description": "",
   "dependencies": {
